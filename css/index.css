@@ -1,0 +1,8 @@
+html {
+  font-size: 625%; }
+  html body {
+    font-size: 12px; }
+    html body canvas {
+      border: 1px solid red; }
+
+/*# sourceMappingURL=index.css.map */
